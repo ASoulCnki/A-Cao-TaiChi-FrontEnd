@@ -1,8 +1,8 @@
-# Auto A-Cao Tai Chi
+# Auto A-Cao Tai Chi Front-End
 
-众所周知，阿草是一个**太极高手**
+众所周知，阿草是一个 **太极高手**
 
-特此模仿 B 站聊天框，给大家狂暴鸿儒羊驼的体验
+特此模仿 B 站聊天框，身临其境，狂暴鸿儒赛博羊驼
 
 ![index](./doc/images/index.png)
 
